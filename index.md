@@ -20,7 +20,7 @@ production. As the tau lepton may decay to e, mu, or hadrons there are in fact 6
 
 <!-- Introductory slides can be found [here](https://twiki.cern.ch/twiki/pub/CMS/SWGuideCMSDataAnalysisSchoolLPC2023ZTauTauXsec/LongExerciseZTauTau.pdf). -->
 
-Please join the Mattermost chat for discussion and questions: LongExTauTau Mattermost Channel
+Please join the Mattermost chat for discussion and questions: [LongExTauTau Mattermost Channel](https://mattermost.web.cern.ch/cmsdaslpc2023/channels/longexerciseztautau)
 
 *The plots and performance curves seen here are for example purposes only, they do not serve in any official capacity.*
 
