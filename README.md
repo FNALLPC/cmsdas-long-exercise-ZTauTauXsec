@@ -10,6 +10,7 @@ questions, concerns, or experience any difficulties along the way.
 Current maintainers of this lesson are
 
 * Guillermo Fidalgo
+* Jingyu Zhang
 * Andrew Malone Melo
 * Fengwangdong Zhang
 * Frank Jensen
