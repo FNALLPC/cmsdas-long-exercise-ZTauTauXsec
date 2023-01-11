@@ -38,7 +38,7 @@ cmsenv
 Pull in the repository with analysis and ntuple code:
 
 ```shell
-git clone --single-branch --branch cmsdas2022 https://github.com/fojensen/nanoAOD-tools.git PhysicsTools/NanoAODTools
+git clone --single-branch --branch cmsdas2023 https://github.com/jingyucms/nanoAOD-tools.git PhysicsTools/NanoAODTools
 scram build
 ```
 
