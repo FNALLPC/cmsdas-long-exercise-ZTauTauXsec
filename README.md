@@ -1,5 +1,8 @@
 # $Z \to \tau \tau $ cross section Long Exercise
 
+# Website
+https://fnallpc.github.io/cmsdas-long-exercise-ZTauTauXsec/
+
 ## Contributing
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
