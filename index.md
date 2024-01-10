@@ -26,7 +26,7 @@ Please join the Mattermost chat for discussion and questions: [LongExTauTau Matt
 
 
 > ## Useful Links
-> - CMSDAS Indico agenda: <https://indico.cern.ch/event/1088671/>
+> - CMSDAS Indico agenda: <https://indico.cern.ch/event/1333922/>
 > - Tau Short exercises: <https://github.com/Fengwangdong/CMSDASLPC2024-Tau-Short-Exercise.git>
 > - Github repository: <https://github.com/fojensen/nanoAOD-tools/tree/cmsdas2022>
 > - DeepTau documentation: <http://cms.cern.ch/iCMS/analysisadmin/cadilines?l - ine=TAU-20-001>
@@ -39,6 +39,7 @@ Please join the Mattermost chat for discussion and questions: [LongExTauTau Matt
 > - Tau reconstruction performance in Run 1: <https://arxiv.org/abs/1510.07488>
 > - Z->tautau at 7 TeV: <https://arxiv.org/abs/1104.1617>
 > - Z->tautau at 13 TeV: <https://arxiv.org/abs/1801.03535>
+> - NanoAOD autodoc V9: <https://cms-nanoaod-integration.web.cern.ch/autoDoc/>
 {: .callout}
 
 
